@@ -59,7 +59,7 @@ body{
 
 .navigation ul li a{
     position: relative;
-    display: block;
+    display: block flex;
     width: 100%;
     text-decoration: none;
     color: var(--white);
