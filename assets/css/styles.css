@@ -243,3 +243,9 @@ body{
 .cardBox .card:hover{
     background-color: var(--blue);
 }
+
+.cardBox .card:hover .numbers,
+.cardBox .card:hover .cardName,
+.cardBox .card:hover .iconBx{
+    color: var(--white);
+}
