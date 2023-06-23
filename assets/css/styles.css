@@ -154,3 +154,9 @@ body{
     font-size: 2.5rem;
     cursor: pointer;
 }
+
+.search{
+    position: relative;
+    width: 400px;
+    margin: 0 10px;
+}
