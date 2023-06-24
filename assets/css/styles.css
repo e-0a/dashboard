@@ -329,3 +329,12 @@ body{
 .details .recentOrders table tr td:nth-child(3){
     text-align: center;
 }
+
+.statusEntrega{
+    padding: 2px 4px;
+    background-color: #8de02c;
+    color: var(--white);
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+}
