@@ -308,3 +308,12 @@ body{
 .details .recentOrders table tr:last-child{
     border-bottom: none;
 }
+
+.details .recentOrders table tbody tr:hover{
+    background-color: var(--blue);
+    color: var(--white);
+}
+
+.details .recentOrders table tr td{
+    padding: 10px;
+}
