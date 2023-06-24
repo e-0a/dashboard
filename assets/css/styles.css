@@ -289,3 +289,9 @@ body{
     color: var(--white);
     border-radius: 6px;
 }
+
+.details table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
