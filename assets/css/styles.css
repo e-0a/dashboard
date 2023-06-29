@@ -400,3 +400,6 @@ body{
 .recentCustomers table tr td{
     padding: 12px 10px;
 }
+
+.recentCustomers table tr td h4{
+}
