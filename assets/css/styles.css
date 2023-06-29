@@ -396,3 +396,7 @@ body{
     height: 100%;
     object-fit: cover;
 }
+
+.recentCustomers table tr td{
+    padding: 12px ;
+}
