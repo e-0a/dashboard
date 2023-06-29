@@ -416,3 +416,7 @@ body{
     background-color: var(--blue);
     color: var(--white);
 }
+
+.recentCustomers table tr:hover td h4 span{
+    color: var(--white);
+}
